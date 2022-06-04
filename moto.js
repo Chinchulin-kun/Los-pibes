@@ -1,21 +1,21 @@
 function moto(vehiculo){
     switch (vehiculo) {
         case "auto":
-            false
+            console.log(false);
             break;
         case "avion":
-            false
+            console.log(false);
             break;
         case "tren":
-            false
+            console.log(false);
             break;
         case "barco":
-            false
+            console.log(false);
             break;
         case "moto":
-             true
+            console.log(true)
             break;     
-        default: "no es un vehiculo"
-            break;
+        default: 
+            console.log("no es un vehiculo") // Luquita te falto el console.log();
     }
 }

@@ -1,5 +1,3 @@
-"Los-pibes"
-
-** mucho texto
-
-Jueguemos terraria B)
+"E.T. Mi casa. Teléfono"
+"Amar es no tener que decir nunca 'lo siento'."
+'lo siento'

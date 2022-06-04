@@ -1,8 +1,5 @@
 <<<<<<< HEAD
-"E.T. Mi casa. Teléfono"
-"Amar es no tener que decir nunca 'lo siento'."
-'lo siento'
-=======
+
 "Los-pibes"
 
 ** mucho texto
@@ -20,3 +17,7 @@ Sale sven-coop también
 =======
 sexoooooooo
 >>>>>>> 193b2ca87a10a487d1d78d62d2370d2ba877ee3e
+"E.T. Mi casa. Teléfono"
+"Amar es no tener que decir nunca 'lo siento'."
+'lo siento'
+=======

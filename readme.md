@@ -4,4 +4,10 @@
 
 Jueguemos terraria B)
 
-sexooooooooo
+Sale sven-coop también
+
+あああああああああああ(ノД`)・゜・。
+|ω・)・・・・
+うおおおおおおおおおおおおおおおおおおおおおおｋｋｋｋｋｋｋｋｋ
+
+sexoooooooo

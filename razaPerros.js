@@ -14,5 +14,9 @@ let perros = [
 {
     nombre : "labrador",
     tamaño : "mediano"
+},
+{
+    nombre : "salchicha",
+    tamaño : "mediano"
 }
 ]

@@ -1,1 +1,1 @@
-console.log(blanco);
+console.log("blanco");

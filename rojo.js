@@ -1,1 +1,1 @@
-console.log("rojo");
+console.log("rojo".repeat(5));
